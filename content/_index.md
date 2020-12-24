@@ -4,23 +4,28 @@ description = "A Hugo theme for creating Reveal.js presentations"
 outputs = ["Reveal"]
 [reveal_hugo]
 margin = 0.2
-transition = "none"
-transition_speed = "fast"
+transition = "cube"
+transition_speed = "slow"
 [logo]
 src = "favicon.ico"
 +++
 
-# DEVOPS
+# the Devops?
+
+<small> provided by Adam </small>
 
 ---
 # what' s the Devops?
 
-{{% section data-auto-animate%}}
+ [devops.txt](/whatisthedevops)
 
-provided by Adam
+---
+# why use Devops?
+
+[devops.png](/whyusedevops)
 
 ---
 
-# test
+# how to do with Devops?
 
-{{% /section %}}
+[devops.exe](/howtododevops)

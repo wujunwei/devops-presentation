@@ -29,11 +29,11 @@ isHTML = true
 
 [params.reveal_hugo]
 history = true
-#theme="moon"
+theme="moon"
 # theme="black"
 # theme="white"
 # theme="league"
- theme="beige"
+# theme="beige"
 # theme="sky"
 # theme="night"
 # theme="serif"
