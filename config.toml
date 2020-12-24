@@ -18,9 +18,8 @@ unsafe = true
 # choose between Hugo compile-time or Highlight.js
 # syntax highlighting for code inside of code fences
 [markup.highlight]
-codeFences = true  # use highlight.js
+codeFences = false  # use highlight.js
 # codeFences = true  # use hugo highlighting at compile time
-style = "tango"  # set a style for hugo highlighting
 
 [outputFormats.Reveal]
 baseName = "index"
@@ -28,11 +27,12 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
+highlight_theme = "pojoaque"
 history = true
-theme="moon"
+#theme="moon"
 # theme="black"
 # theme="white"
-# theme="league"
+ theme="league"
 # theme="beige"
 # theme="sky"
 # theme="night"
@@ -40,7 +40,3 @@ theme="moon"
 # theme="simple"
 # theme="solarized"
 #theme="blood"
-# used in content/template-example
-[params.reveal_hugo.templates.grey]
-background = "#424242"
-transition = "convex"
