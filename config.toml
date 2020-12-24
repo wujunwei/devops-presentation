@@ -27,15 +27,16 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
-highlight_theme = "pojoaque"
-history = true
+highlight_theme = "vs2015"
+history = false
+progress = false
 #theme="moon"
 # theme="black"
 # theme="white"
- theme="league"
+# theme="league"
 # theme="beige"
 # theme="sky"
-# theme="night"
+ theme="night"
 # theme="serif"
 # theme="simple"
 # theme="solarized"
