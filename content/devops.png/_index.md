@@ -9,12 +9,33 @@ transition = "slide"
 transition_speed = "slow"
 [logo]
 src = "favicon.ico"
-+++
++++ 
 
-
-long long ago ...
+{{% section %}}
+<h3> development ⚠️ operations</h3>
 
 ---
 
-# solved
+<h3 >development ➕ operations</h3>
+
+---
+
+<h2>devops ❗</h2>
+
+{{% /section %}}
+
+
+---
+
+## a long story ...
+
+---
+
+## reason
+
+
+
+
+---
+
 [Start over](/#/2)

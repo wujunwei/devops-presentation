@@ -12,13 +12,48 @@ src = "favicon.ico"
 +++
 
 
-## long long ago ...
+{{% section %}}
+
+## CALMS
+
+- Culture
+- Automation
+- Lean
+- Measurement
+- Sharing
 
 ---
 
-# solved
+### Culture
 
+CALMS culture
 
 ---
 
+### Automation
+
+Do not repeat same mistakes (again!)
+
+---
+
+### Lean
+
+focus on producing value for the end user
+
+---
+
+### Measurement
+
+What can we improve?
+
+Did we succeed?
+
+---
+
+### Sharing
+
+{{% /section %}}
+
+
+---
 [Start over](/#/1)

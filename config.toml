@@ -28,15 +28,15 @@ isHTML = true
 
 [params.reveal_hugo]
 highlight_theme = "vs2015"
-history = false
+history = true
 progress = false
-#theme="moon"
+theme="moon"
 # theme="black"
 # theme="white"
 # theme="league"
 # theme="beige"
 # theme="sky"
- theme="night"
+# theme="night"
 # theme="serif"
 # theme="simple"
 # theme="solarized"

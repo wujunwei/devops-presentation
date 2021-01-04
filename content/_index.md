@@ -13,7 +13,7 @@ src = "favicon.ico"
 
 # the Devops
 
-<small> provided by Adam </small>
+<small> provided by 吴俊伟 </small>
 
 ---
 # what' s the Devops?
@@ -24,6 +24,10 @@ src = "favicon.ico"
 # why use Devops?
 
 [👉devops.png](/devops.png)
+
+---
+
+纸上得来终觉浅,绝知此事要躬行
 
 ---
 
